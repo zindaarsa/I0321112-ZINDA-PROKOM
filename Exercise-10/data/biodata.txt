@@ -1,0 +1,6 @@
+Nama: Zinda
+Umur: 19
+Alamat: Jalan manggar 1e jakarta timur
+Nama: Ruby
+Umur: 19
+Alamat: Jalan mawar 1g jakarta timur
